@@ -29,7 +29,7 @@ main
 }
 .title
 {
-    font-size: 50px;
+    font-size: 40px;
     margin: 0;
 }
 .instructions
@@ -52,8 +52,8 @@ main
 }
 .die-div
 {
-    height: 60px;
-    width: 60px;
+    height: 55px;
+    width: 55px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     display: flex;
@@ -70,7 +70,7 @@ main
 }
 .die-number
 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     background-color: white;
     font-family: 'Karla',sans-serif;
 }
