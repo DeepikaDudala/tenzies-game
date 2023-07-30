@@ -99,7 +99,7 @@ main
 @media all and (max-device-width: 480px) {
     main
     {
-        width:450px;
+        width:400px;
     }
     .die-div
     {
