@@ -14,14 +14,16 @@ body{
 main
 {
     background-color: #F5F5F5;
-    height: 500px;
-    width: 500px;
+    height: 480px;
+    width: 480px;
     border-radius: 5px;
     padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    max-height: 500px;
+    max-width: 500px;
 }
 .confetti
 {
