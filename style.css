@@ -14,8 +14,8 @@ body{
 main
 {
     background-color: #F5F5F5;
-    height: 600px;
-    width: 600px;
+    height: 500px;
+    width: 500px;
     border-radius: 5px;
     padding: 20px;
     display: flex;
@@ -52,8 +52,8 @@ main
 }
 .die-div
 {
-    height: 70px;
-    width: 70px;
+    height: 60px;
+    width: 60px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     display: flex;
